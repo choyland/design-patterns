@@ -1,6 +1,9 @@
 ﻿using System;
+using Factory.Customers;
+using Factory.Customers.Interfaces;
+using Factory.Enum;
 
-namespace Factory
+namespace Factory.Factories
 {
     public class CustomerFactory
     {

@@ -1,4 +1,6 @@
-﻿namespace Factory
+﻿using Factory.Customers.Interfaces;
+
+namespace Factory.Customers
 {
     public class EmployeeCustomer : ICustomer
     {

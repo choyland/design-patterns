@@ -1,4 +1,4 @@
-﻿namespace Factory
+﻿namespace Factory.Enum
 {
     public enum CustomerType
     {

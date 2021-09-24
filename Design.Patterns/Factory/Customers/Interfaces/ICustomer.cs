@@ -1,4 +1,4 @@
-﻿namespace Factory
+﻿namespace Factory.Customers.Interfaces
 {
     public interface ICustomer
     {
