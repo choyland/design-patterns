@@ -1,4 +1,6 @@
 ﻿using System;
+using Factory.Enum;
+using Factory.Factories;
 
 namespace Factory
 {
